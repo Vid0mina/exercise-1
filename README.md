@@ -20,11 +20,11 @@ E-MAIL: none
 
 ## RUN PROGRAM
 
-    java -jar ./task-manager.jar
+   -
 
 ## BUILD PROGRAM  
 
-    mvn clean install
+    -
 
 ## FUTURE SCOPE
 
