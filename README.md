@@ -1,4 +1,4 @@
-# TASK MANAGER
+# EDUCATION
 
 Test project.
 
